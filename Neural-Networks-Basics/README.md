@@ -13,6 +13,6 @@ Neural networks are powerful machine learning algorithms. They form the basis of
 * [Play with neural networks!](http://playground.tensorflow.org/)
 
 Try to implement a single layer neural network from scratch, including the training procedure.
-* Implementing softmax classifier and a simple neural network in pure Python/NumPy
+* [Implementing softmax classifier and a simple neural network](https://github.com/khanhnamle1994/complete-guide-to-deep-learning/blob/master/Neural-Networks-Basics/minimal_net.ipynb) in pure Python/NumPy
 * Andrej Karpathy implements backpropagation in Javascript in his [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/).
-* Implementing a neural network from scratch in Python
+* [Implementing a neural network from scratch](https://github.com/khanhnamle1994/complete-guide-to-deep-learning/blob/master/Neural-Networks-Basics/nn-from-scratch.ipynb) in Python
